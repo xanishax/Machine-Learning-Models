@@ -28,3 +28,5 @@ d.	Train the following models: Logistic Regression (LR), FNN, RNN, LSTM, and Att
 5 epochs, 32 batch size, and metrics including accuracy, precision, recall, and F1-score. 
 e.	Compare the performance of the models on the test set in terms of accuracy, precision, recall, and F1 score. 
 
+The solution can be found here:
+https://colab.research.google.com/drive/1jbbGo_9ITS4vH4ysSH1bcxDsaTI9pLph?usp=sharing
